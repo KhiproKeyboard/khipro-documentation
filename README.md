@@ -10,7 +10,7 @@ toc: true
 প্রথম প্রকাশ: ২৪শে আগস্ট, ২০২৫  
 ৬ষ্ঠ সংস্করণ: ২৮শে অক্টোবর, ২০২৫
 
-[PDF Documentation](https://docs.google.com/document/d/1dlfCptSiUfYKEpCLfxglZmdKMbiVoVTRI0FFjpxHE9Y/edit?usp=drivesdk) | [For Developers](/docs/#%E0%A6%A1%E0%A6%AD%E0%A6%B2%E0%A6%AA%E0%A6%B0%E0%A6%A6%E0%A6%B0-%E0%A6%9C%E0%A6%A8%E0%A6%AF-for-developers)
+[PDF Documentation](https://docs.google.com/document/d/1dlfCptSiUfYKEpCLfxglZmdKMbiVoVTRI0FFjpxHE9Y/edit?usp=drivesdk) | [For Developers](https://github.com/KhiproKeyboard/khipro-documentation?tab=readme-ov-file#%E0%A6%A1%E0%A7%87%E0%A6%AD%E0%A7%87%E0%A6%B2%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%9C%E0%A6%A8%E0%A7%8D%E0%A6%AF-for-developers)
 
 
 # লক্ষ্য, উদ্দেশ্য, ও পরিকল্পনা
@@ -1093,9 +1093,13 @@ BTW ami arrc iujar \= btw আমি আর্চ ইউজার
 1. সংখ্যার ম্যাপিং,  
 2. ইংরেজি বর্ণমালার ম্যাপিং,  
 3. দাঁড়ি, ডাবল দাঁড়ির ম্যাপিং,  
-4. টাকা চিহ্ন, রুপি চিহ্নের ম্যাপিং,  
-5. গুণ চিহ্ন, ভাগ চিহ্নের ম্যাপিং,  
+4. টাকা চিহ্ন, রুপি চিহ্ন এবং ডলার চিহ্নের ম্যাপিং,  
+5. গুণ চিহ্ন, ভাগ চিহ্ন এবং অসমান চিহ্নের ম্যাপিং,  
 6. ZWJ, ZWNJ-এর ম্যাপিং,  
 7. অঙ্কের ম্যাপিং অর্থাৎ .{অঙ্ক} এর ম্যাপিং,  
 8. ডট বা বিন্দুর ম্যাপিং,  
-9. বহুবিন্দু বা এলিপসিস বা তিন ডটের ম্যাপিং।
+9. বহুবিন্দু বা এলিপসিস বা তিন ডটের ম্যাপিং,
+10. ব্যাকটিক এবং টিল্ডা রিলেটেড ম্যাপিংসমূহ।
+
+> [!NOTE]
+> টাচস্ক্রিনের জন্য উপরে উল্লিখিত ম্যাপিংগুলো বাদ দেওয়ার পাশাপাশি ঈশ্বর চিহ্নের ম্যাপিংয়ে পরিবর্তন করতে হবে। ম্যাপিংটি ডটের পরিবর্তে দাঁড়ি দিয়ে হবে। অর্থাৎ `।ff` = `৺`।
