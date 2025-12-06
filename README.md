@@ -427,110 +427,58 @@ BTW ami arrc iujar \= btw আমি আর্চ ইউজার
 
 <table border="0.5" cellspacing="0" cellpadding="4">
   <tr>
-    <th colspan="2">ম্যাপিং</th>
-    <th colspan="2">উদাহরণ</th>
+    <th colspan="2">ম্যাপিং</th>     <th colspan="2">উদাহরণ</th>
   </tr>
   <tr>
-    <td>ইনপুট</td>
-    <td>আউটপুট</td>
-    <td>ইনপুট</td>
-    <td>আউটপুট</td>
+    <td>ইনপুট</td>     <td>আউটপুট</td>     <td>ইনপুট</td>     <td>আউটপুট</td>
   </tr>
   <tr>
-    <td>o</td>
-    <td>অ</td>
-    <td>omor</td>
-    <td>অমর</td>
+    <td>o</td>     <td>অ</td>     <td>omor</td>     <td>অমর</td>
   </tr>
   <tr>
-    <td>a</td>
-    <td>আ<br>া</td>
-    <td>amar<br>kaka</td>
-    <td>আমার<br>কাকা</td>
+    <td>a</td>     <td>আ<br>া</td>     <td>amar<br>kaka</td>     <td>আমার<br>কাকা</td>
   </tr>
   <tr>
-    <td>i</td>
-    <td>ই<br>ি</td>
-    <td>iti<br>ki</td>
-    <td>ইতি<br>কি</td>
+    <td>i</td>     <td>ই<br>ি</td>     <td>iti<br>ki</td>     <td>ইতি<br>কি</td>
   </tr>
   <tr>
-    <td>ii</td>
-    <td>ঈ<br>ী</td>
-    <td>iid<br>kii</td>
-    <td>ঈদ<br>কী</td>
+    <td>ii</td>     <td>ঈ<br>ী</td>     <td>iid<br>kii</td>     <td>ঈদ<br>কী</td>
   </tr>
   <tr>
-    <td>u</td>
-    <td>উ<br>ু</td>
-    <td>ui<br>oju</td>
-    <td>উই<br>অজু</td>
+    <td>u</td>     <td>উ<br>ু</td>     <td>ui<br>oju</td>     <td>উই<br>অজু</td>
   </tr>
   <tr>
-    <td>uu</td>
-    <td>ঊ<br>ূ</td>
-    <td>uuru<br>kuup</td>
-    <td>ঊরু<br>কূপ</td>
+    <td>uu</td>     <td>ঊ<br>ূ</td>     <td>uuru<br>kuup</td>     <td>ঊরু<br>কূপ</td>
   </tr>
   <tr>
-    <td>q</td>
-    <td>ঋ<br>ৃ</td>
-    <td>qju<br>kqtii</td>
-    <td>ঋজু<br>কৃতী</td>
+    <td>q</td>     <td>ঋ<br>ৃ</td>     <td>qju<br>kqtii</td>     <td>ঋজু<br>কৃতী</td>
   </tr>
   <tr>
-    <td>e</td>
-    <td>এ<br>ে</td>
-    <td>ebar<br>ke</td>
-    <td>এবার<br>কে</td>
+    <td>e</td>     <td>এ<br>ে</td>     <td>ebar<br>ke</td>     <td>এবার<br>কে</td>
   </tr>
   <tr>
-    <td>oi</td>
-    <td>ঐ<br>ৈ</td>
-    <td>oik<br>koi</td>
-    <td>ঐক<br>কৈ</td>
+    <td>oi</td>     <td>ঐ<br>ৈ</td>     <td>oik<br>koi</td>     <td>ঐক<br>কৈ</td>
   </tr>
   <tr>
-    <td>w</td>
-    <td>ও<br>ো</td>
-    <td>wstad<br>kwn</td>
-    <td>ওস্তাদ<br>কোন</td>
+    <td>w</td>     <td>ও<br>ো</td>     <td>wstad<br>kwn</td>     <td>ওস্তাদ<br>কোন</td>
   </tr>
   <tr>
-    <td>ou</td>
-    <td>ঔ<br>ৌ</td>
-    <td>oucitz<br>nou</td>
-    <td>ঔচিত্য<br>নৌ</td>
+    <td>ou</td>     <td>ঔ<br>ৌ</td>     <td>oucitz<br>nou</td>     <td>ঔচিত্য<br>নৌ</td>
   </tr>
   <tr>
-    <td>ae</td>
-    <td>অ্যা<br>্যা</td>
-    <td>aep<br>maep</td>
-    <td>অ্যাপ<br>ম্যাপ</td>
+    <td>ae</td>     <td>অ্যা<br>্যা</td>     <td>aep<br>maep</td>     <td>অ্যাপ<br>ম্যাপ</td>
   </tr>
   <tr>
-    <td>aef</td>
-    <td>অ্যা</td>
-    <td>hwatfsaefp</td>
-    <td>হোয়াটসঅ্যাপ</td>
+    <td>aef</td>     <td>অ্যা</td>     <td>hwatfsaefp</td>     <td>হোয়াটসঅ্যাপ</td>
   </tr>
   <tr>
-    <td>wa</td>
-    <td>ওয়া<br>োয়া</td>
-    <td>watfar<br>dhwa</td>
-    <td>ওয়াটার<br>ধোয়া</td>
+    <td>wa</td>     <td>ওয়া<br>োয়া</td>     <td>watfar<br>dhwa</td>     <td>ওয়াটার<br>ধোয়া</td>
   </tr>
   <tr>
-    <td>we</td>
-    <td>ওয়ে<br>োয়ে</td>
-    <td>wedar<br>swetfar</td>
-    <td>ওয়েদার<br>সোয়েটার</td>
+    <td>we</td>     <td>ওয়ে<br>োয়ে</td>     <td>wedar<br>swetfar</td>     <td>ওয়েদার<br>সোয়েটার</td>
   </tr>
   <tr>
-    <td>wae</td>
-    <td>ওয়্যা</td>
-    <td>harrdfwaer</td>
-    <td>হার্ডওয়্যার</td>
+    <td>wae</td>     <td>ওয়্যা</td>     <td>harrdfwaer</td>     <td>হার্ডওয়্যার</td>
   </tr>
 </table>
 
@@ -538,280 +486,146 @@ BTW ami arrc iujar \= btw আমি আর্চ ইউজার
 
 <table border="0.5" cellspacing="0" cellpadding="4">
   <tr>
-    <th colspan="2">ম্যাপিং</th>
-    <th colspan="2">উদাহরণ</th>
+    <th colspan="2">ম্যাপিং</th>     <th colspan="2">উদাহরণ</th>
   </tr>
   <tr>
-    <td>ইনপুট</td>
-    <td>আউটপুট</td>
-    <td>ইনপুট</td>
-    <td>আউটপুট</td>
+    <td>ইনপুট</td>     <td>আউটপুট</td>     <td>ইনপুট</td>     <td>আউটপুট</td>
   </tr>
   <tr>
-    <td>o</td>
-    <td>(অ-কার)</td>
-    <td>kol<br>oto</td>
-    <td>কল<br>অত</td>
+    <td>o</td>     <td>(অ-কার)</td>     <td>kol<br>oto</td>     <td>কল<br>অত</td>
   </tr>
   <tr>
-    <td>;</td>
-    <td>পৃথায়ক ও যুক্তবর্ণ রোধক</td>
-    <td>am;ar<br>chok;ka</td>
-    <td>আমআর<br>ছককা</td>
+    <td>;</td>     <td>পৃথায়ক ও যুক্তবর্ণ রোধক</td>     <td>am;ar<br>chok;ka</td>     <td>আমআর<br>ছককা</td>
   </tr>
   <tr>
-    <td>f{কার}</td>
-    <td>শব্দের শুরুতে কারচিহ্নের বদলে<br>স্বরবর্ণ আসা রোধ করবে।</td>
-    <td>far</td>
-    <td>ার</td>
+    <td>f{কার}</td>     <td>শব্দের শুরুতে কারচিহ্নের বদলে<br>স্বরবর্ণ আসা রোধ করবে।</td>     <td>far</td>     <td>ার</td>
   </tr>
   <tr>
-    <td>{ব্যঞ্জন}oif</td>
-    <td>{ব্যঞ্জন} ই</td>
-    <td>boif</td>
-    <td>বই</td>
+    <td>{ব্যঞ্জন}oif</td>     <td>{ব্যঞ্জন} ই</td>     <td>boif</td>     <td>বই</td>
   </tr>
   <tr>
-    <td>{ব্যঞ্জন}ouf</td>
-    <td>{ব্যঞ্জন} উ</td>
-    <td>bouf</td>
-    <td>বউ</td>
+    <td>{ব্যঞ্জন}ouf</td>     <td>{ব্যঞ্জন} উ</td>     <td>bouf</td>     <td>বউ</td>
   </tr>
   <tr>
-    <td>{ব্যঞ্জন}{কার}f</td>
-    <td>{ব্যঞ্জন}{স্বরবর্ণ} (ঐ, ঔ বাদে)</td>
-    <td>bif</td>
-    <td>বই</td>
+    <td>{ব্যঞ্জন}{কার}f</td>     <td>{ব্যঞ্জন}{স্বরবর্ণ} (ঐ, ঔ বাদে)</td>     <td>bif</td>     <td>বই</td>
   </tr>
   <tr>
-    <td>{কার}ff</td>
-    <td>স্বচ্ছ স্টাইলের কারচিহ্ন</td>
-    <td>ruup<br>ruuffp</td>
-    <td>রূপ<br>র‌ূপ</td>
+    <td>{কার}ff</td>     <td>স্বচ্ছ স্টাইলের কারচিহ্ন</td>     <td>ruup<br>ruuffp</td>     <td>রূপ<br>র‌ূপ</td>
   </tr>
 </table>
 
 ## ব্যঞ্জনবর্ণ
 <table border="0.5" cellspacing="0" cellpadding="4">
   <tr>
-    <th colspan="2">ম্যাপিং</th>
-    <th colspan="2">উদাহরণ</th>
+    <th colspan="2">ম্যাপিং</th>     <th colspan="2">উদাহরণ</th>
   </tr>
   <tr>
-    <td>ইনপুট</td>
-    <td>আউটপুট</td>
-    <td>ইনপুট</td>
-    <td>আউটপুট</td>
+    <td>ইনপুট</td>     <td>আউটপুট</td>     <td>ইনপুট</td>     <td>আউটপুট</td>
   </tr>
   <tr>
-    <td>k</td>
-    <td>ক</td>
-    <td>kolom, k;l;m</td>
-    <td>কলম</td>
+    <td>k</td>     <td>ক</td>     <td>kolom, k;l;m</td>     <td>কলম</td>
   </tr>
   <tr>
-    <td>kh</td>
-    <td>খ</td>
-    <td>khata</td>
-    <td>খাতা</td>
+    <td>kh</td>     <td>খ</td>     <td>khata</td>     <td>খাতা</td>
   </tr>
   <tr>
-    <td>g</td>
-    <td>গ</td>
-    <td>garfi</td>
-    <td>গাড়ি</td>
+    <td>g</td>     <td>গ</td>     <td>garfi</td>     <td>গাড়ি</td>
   </tr>
   <tr>
-    <td>gh</td>
-    <td>ঘ</td>
-    <td>ghor, gh;r</td>
-    <td>ঘর</td>
+    <td>gh</td>     <td>ঘ</td>     <td>ghor, gh;r</td>     <td>ঘর</td>
   </tr>
   <tr>
-    <td>ngf (স্বাধীন)<br>ng{কার}<br>ng (যুক্তবর্ণে)</td>
-    <td>ঙ</td>
-    <td>rongf<br>ranga<br>rangga</td>
-    <td>রং<br>রাঙা<br>রাঙ্গা</td>
+    <td>ngf (স্বাধীন)<br>ng{কার}<br>ng (যুক্তবর্ণে)</td>     <td>ঙ</td>     <td>rongf<br>ranga<br>rangga</td>     <td>রং<br>রাঙা<br>রাঙ্গা</td>
   </tr>
   <tr>
-    <td>c</td>
-    <td>চ</td>
-    <td>ca</td>
-    <td>চা</td>
+    <td>c</td>     <td>চ</td>     <td>ca</td>     <td>চা</td>
   </tr>
   <tr>
-    <td>ch</td>
-    <td>ছ</td>
-    <td>chata</td>
-    <td>ছাতা</td>
+    <td>ch</td>     <td>ছ</td>     <td>chata</td>     <td>ছাতা</td>
   </tr>
   <tr>
-    <td>j</td>
-    <td>জ</td>
-    <td>jadughor</td>
-    <td>জাদুঘর</td>
+    <td>j</td>     <td>জ</td>     <td>jadughor</td>     <td>জাদুঘর</td>
   </tr>
   <tr>
-    <td>jh</td>
-    <td>ঝ</td>
-    <td>jhorf</td>
-    <td>ঝড়</td>
+    <td>jh</td>     <td>ঝ</td>     <td>jhorf</td>     <td>ঝড়</td>
   </tr>
   <tr>
-    <td>nff</td>
-    <td>ঞ</td>
-    <td>minffa<br>jhonjha</td>
-    <td>মিঞা<br>ঝঞ্ঝা</td>
+    <td>nff</td>     <td>ঞ</td>     <td>minffa<br>jhonjha</td>     <td>মিঞা<br>ঝঞ্ঝা</td>
   </tr>
   <tr>
-    <td>tf</td>
-    <td>ট</td>
-    <td>tfaka<br>ottf</td>
-    <td>টাকা<br>অট্ট</td>
+    <td>tf</td>     <td>ট</td>     <td>tfaka<br>ottf</td>     <td>টাকা<br>অট্ট</td>
   </tr>
   <tr>
-    <td>tff</td>
-    <td>ঠ</td>
-    <td>tffandfa</td>
-    <td>ঠান্ডা</td>
+    <td>tff</td>     <td>ঠ</td>     <td>tffandfa</td>     <td>ঠান্ডা</td>
   </tr>
   <tr>
-    <td>df</td>
-    <td>ড</td>
-    <td>odfitf<br>addfa</td>
-    <td>অডিট<br>আড্ডা</td>
+    <td>df</td>     <td>ড</td>     <td>odfitf<br>addfa</td>     <td>অডিট<br>আড্ডা</td>
   </tr>
   <tr>
-    <td>dff</td>
-    <td>ঢ</td>
-    <td>dffaka</td>
-    <td>ঢাকা</td>
+    <td>dff</td>     <td>ঢ</td>     <td>dffaka</td>     <td>ঢাকা</td>
   </tr>
   <tr>
-    <td>nf</td>
-    <td>ণ</td>
-    <td>boronf</td>
-    <td>বরণ</td>
+    <td>nf</td>     <td>ণ</td>     <td>boronf</td>     <td>বরণ</td>
   </tr>
   <tr>
-    <td>t</td>
-    <td>ত</td>
-    <td>tumi<br>twmar</td>
-    <td>তুমি<br>তোমার</td>
+    <td>t</td>     <td>ত</td>     <td>tumi<br>twmar</td>     <td>তুমি<br>তোমার</td>
   </tr>
   <tr>
-    <td>th</td>
-    <td>থ</td>
-    <td>thaka</td>
-    <td>থাকা</td>
+    <td>th</td>     <td>থ</td>     <td>thaka</td>     <td>থাকা</td>
   </tr>
   <tr>
-    <td>d</td>
-    <td>দ</td>
-    <td>d;i, dif</td>
-    <td>দই</td>
+    <td>d</td>     <td>দ</td>     <td>d;i, dif</td>     <td>দই</td>
   </tr>
   <tr>
-    <td>dh</td>
-    <td>ধ</td>
-    <td>dhakka<br>dhbni</td>
-    <td>ধাক্কা<br>ধ্বনি</td>
+    <td>dh</td>     <td>ধ</td>     <td>dhakka<br>dhbni</td>     <td>ধাক্কা<br>ধ্বনি</td>
   </tr>
   <tr>
-    <td>n</td>
-    <td>ন</td>
-    <td>nombor, n;mb;r</td>
-    <td>নম্বর</td>
+    <td>n</td>     <td>ন</td>     <td>nombor, n;mb;r</td>     <td>নম্বর</td>
   </tr>
   <tr>
-    <td>p</td>
-    <td>প</td>
-    <td>pakhi</td>
-    <td>পাখি</td>
+    <td>p</td>     <td>প</td>     <td>pakhi</td>     <td>পাখি</td>
   </tr>
   <tr>
-    <td>ph</td>
-    <td>ফ</td>
-    <td>phol</td>
-    <td>ফল</td>
+    <td>ph</td>     <td>ফ</td>     <td>phol</td>     <td>ফল</td>
   </tr>
   <tr>
-    <td>b</td>
-    <td>ব</td>
-    <td>barfi</td>
-    <td>বাড়ি</td>
+    <td>b</td>     <td>ব</td>     <td>barfi</td>     <td>বাড়ি</td>
   </tr>
   <tr>
-    <td>v</td>
-    <td>ভ</td>
-    <td>vorpur</td>
-    <td>ভরপুর</td>
+    <td>v</td>     <td>ভ</td>     <td>vorpur</td>     <td>ভরপুর</td>
   </tr>
   <tr>
-    <td>m</td>
-    <td>ম</td>
-    <td>matfi</td>
-    <td>মাটি</td>
+    <td>m</td>     <td>ম</td>     <td>matfi</td>     <td>মাটি</td>
   </tr>
   <tr>
-    <td>z</td>
-    <td>য</td>
-    <td>zokhon, zkhn</td>
-    <td>যখন</td>
+    <td>z</td>     <td>য</td>     <td>zokhon, zkhn</td>     <td>যখন</td>
   </tr>
   <tr>
-    <td>r</td>
-    <td>র</td>
-    <td>rong</td>
-    <td>রং</td>
+    <td>r</td>     <td>র</td>     <td>rong</td>     <td>রং</td>
   </tr>
   <tr>
-    <td>l</td>
-    <td>ল</td>
-    <td>lav</td>
-    <td>লাভ</td>
+    <td>l</td>     <td>ল</td>     <td>lav</td>     <td>লাভ</td>
   </tr>
   <tr>
-    <td>sh</td>
-    <td>শ</td>
-    <td>shobd</td>
-    <td>শব্দ</td>
+    <td>sh</td>     <td>শ</td>     <td>shobd</td>     <td>শব্দ</td>
   </tr>
   <tr>
-    <td>sf</td>
-    <td>ষ</td>
-    <td>susfom</td>
-    <td>সুষম</td>
+    <td>sf</td>     <td>ষ</td>     <td>susfom</td>     <td>সুষম</td>
   </tr>
   <tr>
-    <td>s</td>
-    <td>স</td>
-    <td>sob</td>
-    <td>সব</td>
+    <td>s</td>     <td>স</td>     <td>sob</td>     <td>সব</td>
   </tr>
   <tr>
-    <td>h</td>
-    <td>হ</td>
-    <td>hawa</td>
-    <td>হাওয়া</td>
+    <td>h</td>     <td>হ</td>     <td>hawa</td>     <td>হাওয়া</td>
   </tr>
   <tr>
-    <td>y</td>
-    <td>য়</td>
-    <td>upay</td>
-    <td>উপায়</td>
+    <td>y</td>     <td>য়</td>     <td>upay</td>     <td>উপায়</td>
   </tr>
   <tr>
-    <td>rf</td>
-    <td>ড়</td>
-    <td>jwrfa</td>
-    <td>জোড়া</td>
+    <td>rf</td>     <td>ড়</td>     <td>jwrfa</td>     <td>জোড়া</td>
   </tr>
   <tr>
-    <td>rff</td>
-    <td>ঢ়</td>
-    <td>asfarff</td>
-    <td>আষাঢ়</td>
+    <td>rff</td>     <td>ঢ়</td>     <td>asfarff</td>     <td>আষাঢ়</td>
   </tr>
 </table>
 
@@ -819,135 +633,76 @@ BTW ami arrc iujar \= btw আমি আর্চ ইউজার
 
 <table border="0.5" cellspacing="0" cellpadding="4">
   <tr>
-    <th colspan="2">ম্যাপিং</th>
-    <th colspan="2">উদাহরণ</th>
+    <th colspan="2">ম্যাপিং</th>     <th colspan="2">উদাহরণ</th>
   </tr>
   <tr>
-    <td>ইনপুট</td>
-    <td>আউটপুট</td>
-    <td>ইনপুট</td>
-    <td>আউটপুট</td>
+    <td>ইনপুট</td>     <td>আউটপুট</td>     <td>ইনপুট</td>     <td>আউটপুট</td>
   </tr>
   <tr>
-    <td>rr</td>
-    <td>রেফ</td>
-    <td>porrzay</td>
-    <td>পর্যায়</td>
+    <td>rr</td>     <td>রেফ</td>     <td>porrzay</td>     <td>পর্যায়</td>
   </tr>
   <tr>
-    <td>rz</td>
-    <td>র‍্য</td>
-    <td>rzam, raem</td>
-    <td>র‍্যাম</td>
+    <td>rz</td>     <td>র‍্য</td>     <td>rzam, raem</td>     <td>র‍্যাম</td>
   </tr>
   <tr>
-    <td>kf, kkh, ksf</td>
-    <td>ক্ষ</td>
-    <td>shikfa</td>
-    <td>শিক্ষা</td>
+    <td>kf, kkh, ksf</td>     <td>ক্ষ</td>     <td>shikfa</td>     <td>শিক্ষা</td>
   </tr>
   <tr>
-    <td>nc</td>
-    <td>ঞ্চ</td>
-    <td>poncash</td>
-    <td>পঞ্চাশ</td>
+    <td>nc</td>     <td>ঞ্চ</td>     <td>poncash</td>     <td>পঞ্চাশ</td>
   </tr>
   <tr>
-    <td>nch</td>
-    <td>ঞ্ছ</td>
-    <td>bancha</td>
-    <td>বাঞ্ছা</td>
+    <td>nch</td>     <td>ঞ্ছ</td>     <td>bancha</td>     <td>বাঞ্ছা</td>
   </tr>
   <tr>
-    <td>nj</td>
-    <td>ঞ্জ</td>
-    <td>bznjon</td>
-    <td>ব্যঞ্জন</td>
+    <td>nj</td>     <td>ঞ্জ</td>     <td>bznjon</td>     <td>ব্যঞ্জন</td>
   </tr>
   <tr>
-    <td>njh</td>
-    <td>ঞ্ঝ</td>
-    <td>jhonjhatf</td>
-    <td>ঝঞ্ঝাট</td>
+    <td>njh</td>     <td>ঞ্ঝ</td>     <td>jhonjhatf</td>     <td>ঝঞ্ঝাট</td>
   </tr>
   <tr>
-    <td>gg, jnff</td>
-    <td>জ্ঞ</td>
-    <td>biggan</td>
-    <td>বিজ্ঞান</td>
+    <td>gg, jnff</td>     <td>জ্ঞ</td>     <td>biggan</td>     <td>বিজ্ঞান</td>
   </tr>
   <tr>
-    <td>ggg</td>
-    <td>গ্গ</td>
-    <td>duggga</td>
-    <td>দুগ্গা</td>
+    <td>ggg</td>     <td>গ্গ</td>     <td>duggga</td>     <td>দুগ্গা</td>
   </tr>
   <tr>
-    <td>ttf, tftf</td>
-    <td>ট্ট</td>
-    <td>cottfgram</td>
-    <td>চট্টগ্রাম</td>
+    <td>ttf, tftf</td>     <td>ট্ট</td>     <td>cottfgram</td>     <td>চট্টগ্রাম</td>
   </tr>
   <tr>
-    <td>ddf, dfdf</td>
-    <td>ড্ড</td>
-    <td>addfa</td>
-    <td>আড্ডা</td>
+    <td>ddf, dfdf</td>     <td>ড্ড</td>     <td>addfa</td>     <td>আড্ডা</td>
   </tr>
   <tr>
-    <td>sfk</td>
-    <td>ষ্ক</td>
-    <td>shusfk</td>
-    <td>শুষ্ক</td>
+    <td>sfk</td>     <td>ষ্ক</td>     <td>shusfk</td>     <td>শুষ্ক</td>
   </tr>
   <tr>
-    <td>sftf</td>
-    <td>ষ্ট</td>
-    <td>misftfi</td>
-    <td>মিষ্টি</td>
+    <td>sftf</td>     <td>ষ্ট</td>     <td>misftfi</td>     <td>মিষ্টি</td>
   </tr>
   <tr>
-    <td>sftff</td>
-    <td>ষ্ঠ</td>
-    <td>kasftff</td>
-    <td>কাষ্ঠ</td>
+    <td>sftff</td>     <td>ষ্ঠ</td>     <td>kasftff</td>     <td>কাষ্ঠ</td>
   </tr>
   <tr>
-    <td>sfn, sfnf</td>
-    <td>ষ্ণ</td>
-    <td>usfn</td>
-    <td>উষ্ণ</td>
+    <td>sfn, sfnf</td>     <td>ষ্ণ</td>     <td>usfn</td>     <td>উষ্ণ</td>
   </tr>
   <tr>
-    <td>sfp</td>
-    <td>ষ্প</td>
-    <td>basfp</td>
-    <td>বাষ্প</td>
+    <td>sfp</td>     <td>ষ্প</td>     <td>basfp</td>     <td>বাষ্প</td>
   </tr>
   <tr>
-    <td>sfph</td>
-    <td>ষ্ফ</td>
-    <td>nisfphol</td>
-    <td>নিষ্ফল</td>
+    <td>sfph</td>     <td>ষ্ফ</td>     <td>nisfphol</td>     <td>নিষ্ফল</td>
   </tr>
   <tr>
-    <td>qq</td>
-    <td> ্ (হসন্ত)</td>
+    <td>qq</td>     <td> ্ (হসন্ত)</td>
     <td colspan="2">জোরপূর্বক যুক্তবর্ণ গঠন করতে।<br>যেমন: kilqqn = কিল্ন</td>
   </tr>
   <tr>
-    <td>xx</td>
-    <td> ্{ZWNJ}</td>
+    <td>xx</td>     <td> ্{ZWNJ}</td>
     <td colspan="2">হসন্ত সাথে ZWNJ. যুক্তবর্ণ গঠন<br>করবে না এমন হসন্ত। শব্দের মাঝে<br>হসন্ত দেখাতে।<br>যেমন: udxxdiin = উদ্‌দীন</td>
   </tr>
   <tr>
-    <td>``</td>
-    <td>[ZWNJ]</td>
+    <td>``</td>     <td>[ZWNJ]</td>
     <td colspan="2">হসন্তের যুক্তবর্ণ গঠন রোধ করে,<br>যা ঠিক এর উপরের ঘরেই<br>আলোচিত হয়েছে। এছাড়া স্বচ্ছ<br>স্টাইলের কারচিহ্ন লিখতে এটি<br>ব্যবহৃত হয়।</td>
   </tr>
   <tr>
-    <td>~~</td>
-    <td>[ZWJ]</td>
+    <td>~~</td>     <td>[ZWJ]</td>
     <td colspan="2">র‍্য লিখতে এবং যুক্তবর্ণের সংক্ষিপ্ত<br>গ্লিফ লিখতে এটি ব্যবহৃত হয়।</td>
   </tr>
 </table>
@@ -956,117 +711,73 @@ BTW ami arrc iujar \= btw আমি আর্চ ইউজার
 
 <table border="0.5" cellspacing="0" cellpadding="4">
   <tr>
-    <th colspan="2">ম্যাপিং</th>
-    <th rowspan="2">মন্তব্য/উদাহরণ</th>
+    <th colspan="2">ম্যাপিং</th>     <th rowspan="2">মন্তব্য/উদাহরণ</th>
   </tr>
   <tr>
-    <td>ইনপুট</td>
-    <td>আউটপুট</td>
+    <td>ইনপুট</td>     <td>আউটপুট</td>
   </tr>
   <tr>
-    <td>t/</td>
-    <td>ৎ</td>
-    <td>খণ্ড-ত, ut/s = উৎস</td>
+    <td>t/</td>     <td>ৎ</td>     <td>খণ্ড-ত, ut/s = উৎস</td>
   </tr>
   <tr>
-    <td>x</td>
-    <td>ঃ</td>
-    <td>বিসর্গ, duxkh = দুঃখ</td>
+    <td>x</td>     <td>ঃ</td>     <td>বিসর্গ, duxkh = দুঃখ</td>
   </tr>
   <tr>
-    <td>ng<br>ng;<br>oo</td>
-    <td>ং</td>
-    <td>অনুস্বার, bangla = বাংলা<br>baeng;k = ব্যাংক<br>baeook = ব্যাংক</td>
+    <td>ng<br>ng;<br>oo</td>     <td>ং</td>     <td>অনুস্বার, bangla = বাংলা<br>baeng;k = ব্যাংক<br>baeook = ব্যাংক</td>
   </tr>
   <tr>
-    <td>/</td>
-    <td>ঁ</td>
-    <td>চন্দ্রবিন্দু, ta/der = তাঁদের</td>
+    <td>/</td>     <td>ঁ</td>     <td>চন্দ্রবিন্দু, ta/der = তাঁদের</td>
   </tr>
   <tr>
-    <td>.</td>
-    <td>।</td>
-    <td>দাঁড়ি</td>
+    <td>.</td>     <td>।</td>     <td>দাঁড়ি</td>
   </tr>
   <tr>
-    <td>.f</td>
-    <td>॥</td>
-    <td>ডাবল দাঁড়ি</td>
+    <td>.f</td>     <td>॥</td>     <td>ডাবল দাঁড়ি</td>
   </tr>
   <tr>
-    <td>.ff</td>
-    <td>৺</td>
-    <td>ঈশ্বর চিহ্ন</td>
+    <td>.ff</td>     <td>৺</td>     <td>ঈশ্বর চিহ্ন</td>
   </tr>
   <tr>
-    <td>oof</td>
-    <td>ঽ</td>
-    <td>অবগ্রহ</td>
+    <td>oof</td>     <td>ঽ</td>     <td>অবগ্রহ</td>
   </tr>
   <tr>
-    <td>,,</td>
-    <td>়</td>
-    <td>নুকতা, sirij,, = সিরিজ়, h,,asan = হ়াসান</td>
+    <td>,,</td>     <td>়</td>     <td>নুকতা, sirij,, = সিরিজ়, h,,asan = হ়াসান</td>
   </tr>
   <tr>
-    <td>..</td>
-    <td>.</td>
-    <td>ডট বা বিন্দু। bi..dro.. = বি.দ্র.</td>
+    <td>..</td>     <td>.</td>     <td>ডট বা বিন্দু। bi..dro.. = বি.দ্র.</td>
   </tr>
   <tr>
-    <td>…</td>
-    <td>…</td>
-    <td>বহুবিন্দু বা এলিপসিস বা তিন ডট</td>
+    <td>…</td>     <td>…</td>     <td>বহুবিন্দু বা এলিপসিস বা তিন ডট</td>
   </tr>
   <tr>
-    <td>,,,</td>
-    <td>,,</td>
-    <td>পরপর দুইবার কমা</td>
+    <td>,,,</td>     <td>,,</td>     <td>পরপর দুইবার কমা</td>
   </tr>
   <tr>
-    <td>;;</td>
-    <td>;</td>
-    <td>সেমিকোলন</td>
+    <td>;;</td>     <td>;</td>     <td>সেমিকোলন</td>
   </tr>
   <tr>
-    <td>//</td>
-    <td>/</td>
-    <td>ফরওয়ার্ড স্ল্যাশ</td>
+    <td>//</td>     <td>/</td>     <td>ফরওয়ার্ড স্ল্যাশ</td>
   </tr>
   <tr>
-    <td>.{অঙ্ক}</td>
-    <td>.{অঙ্ক}</td>
-    <td>3.1416 = ৩.১৪১৬</td>
+    <td>.{অঙ্ক}</td>     <td>.{অঙ্ক}</td>     <td>3.1416 = ৩.১৪১৬</td>
   </tr>
   <tr>
-    <td>$</td>
-    <td>৳</td>
-    <td>টাকা চিহ্ন</td>
+    <td>$</td>     <td>৳</td>     <td>টাকা চিহ্ন</td>
   </tr>
   <tr>
-    <td>$f</td>
-    <td>₹</td>
-    <td>রুপি চিহ্ন</td>
+    <td>$f</td>     <td>₹</td>     <td>রুপি চিহ্ন</td>
   </tr>
    <tr>
-    <td>$$</td>
-    <td>$</td>
-    <td>ডলার চিহ্ন</td>
+    <td>$$</td>     <td>$</td>     <td>ডলার চিহ্ন</td>
   </tr>
   <tr>
-    <td>+f</td>
-    <td>×</td>
-    <td>গুণ চিহ্ন</td>
+    <td>+f</td>     <td>×</td>     <td>গুণ চিহ্ন</td>
   </tr>
   <tr>
-    <td>-f</td>
-    <td>÷</td>
-    <td>ভাগ চিহ্ন</td>
+    <td>-f</td>     <td>÷</td>     <td>ভাগ চিহ্ন</td>
   </tr>
    <tr>
-    <td>=f</td>
-    <td>≠</td>
-    <td>অসমান চিহ্ন</td>
+    <td>=f</td>     <td>≠</td>     <td>অসমান চিহ্ন</td>
   </tr>
 </table>
 
