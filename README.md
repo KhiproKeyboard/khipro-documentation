@@ -1,9 +1,16 @@
+---
+title: "ক্ষিপ্র কিবোর্ড কনসেপ্ট ও ব্যবহার-নির্দেশিকা"
+description: "ক্ষিপ্র কিবোর্ডের সম্পূর্ণ ব্যবহার নির্দেশিকা এবং কনসেপ্ট। দ্রুততম বাংলা টাইপিংয়ের জন্য ক্ষিপ্র কিবোর্ড লেআউট শিখুন।"
+layout: "single"
+toc: true
+---
+
 # ক্ষিপ্র কিবোর্ড <br> কনসেপ্ট ও ব্যবহার-নির্দেশিকা
 
 প্রথম প্রকাশ: ২৪শে আগস্ট, ২০২৫  
 ৬ষ্ঠ সংস্করণ: ২৮শে অক্টোবর, ২০২৫
 
-[Click here to view the Guidelines for Developers](#ডেভেলপারদের-জন্য-for-developers)
+[PDF Documentation](https://docs.google.com/document/d/1dlfCptSiUfYKEpCLfxglZmdKMbiVoVTRI0FFjpxHE9Y/edit?usp=drivesdk) | [For Developers](#ডেভেলপারদের-জন্য-for-developers)
 
 
 # লক্ষ্য, উদ্দেশ্য, ও পরিকল্পনা
